@@ -1,4 +1,4 @@
-# Calculadora Simples em React Native 
+# Calculadora Simples em React Native 🚀
 
 Uma calculadora simples feita em React Native, com operações básicas de soma, subtração, multiplicação e divisão.
 
